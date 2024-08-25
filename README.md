@@ -1,3 +1,3 @@
 # MatLab-GENG-8030
-This folder includes several practice questions and the smart parking project using matlab and arudino
-## [Smart Parking Project](SmartHomeParking) 
+This folder contains several practice questions along with the smart parking project, which utilizes MATLAB and Arduino.
+## *[Smart Parking Project](SmartHomeParking) 
